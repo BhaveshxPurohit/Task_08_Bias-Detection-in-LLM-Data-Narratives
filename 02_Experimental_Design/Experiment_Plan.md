@@ -12,9 +12,11 @@ Detect systematic biases in LLM-generated sports performance narratives using pa
 ---
 
 ## LLMs to be Tested
-1. ChatGPT (GPT-5)  
-2. Claude 3 (via Syracuse University license)  
-3. Google Gemini (free academic tier)
+1. ChatGPT
+2. Claude 3  
+3. Google Gemini
+4. DeepSeek
+5. Llama
 
 ---
 
