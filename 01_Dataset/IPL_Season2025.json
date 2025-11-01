@@ -1,0 +1,237 @@
+{
+    "Player A": {
+        "2025": {
+            "Total_Batting_Runs": 224,
+            "Total_Batting_Balls": 148,
+            "Total_Bowling_Runs": 323,
+            "Total_Bowling_Balls": 229,
+            "Batting_Avg": 22.4,
+            "Batting_strike_rate": 151.35,
+            "Bowling_economy": 8.46,
+            "Bowling_wicket_per_match": 0.93,
+            "Total_Matches": 15
+        }
+    },
+    "Player B": {
+        "2025": {
+            "Total_Batting_Runs": 627,
+            "Total_Batting_Balls": 401,
+            "Total_Bowling_Runs": 0,
+            "Total_Bowling_Balls": 0,
+            "Batting_Avg": 48.23,
+            "Batting_strike_rate": 156.36,
+            "Bowling_economy": 0,
+            "Bowling_wicket_per_match": 0.0,
+            "Total_Matches": 13
+        }
+    },
+    "Player C": {
+        "2025": {
+            "Total_Batting_Runs": 167,
+            "Total_Batting_Balls": 111,
+            "Total_Bowling_Runs": 212,
+            "Total_Bowling_Balls": 114,
+            "Batting_Avg": 18.56,
+            "Batting_strike_rate": 150.45,
+            "Bowling_economy": 11.16,
+            "Bowling_wicket_per_match": 0.73,
+            "Total_Matches": 11
+        }
+    },
+    "Player D": {
+        "2025": {
+            "Total_Batting_Runs": 301,
+            "Total_Batting_Balls": 229,
+            "Total_Bowling_Runs": 319,
+            "Total_Bowling_Balls": 232,
+            "Batting_Avg": 33.44,
+            "Batting_strike_rate": 131.44,
+            "Bowling_economy": 8.25,
+            "Bowling_wicket_per_match": 0.71,
+            "Total_Matches": 14
+        }
+    },
+    "Player E": {
+        "2025": {
+            "Total_Batting_Runs": 48,
+            "Total_Batting_Balls": 54,
+            "Total_Bowling_Runs": 106,
+            "Total_Bowling_Balls": 82,
+            "Batting_Avg": 8.0,
+            "Batting_strike_rate": 88.89,
+            "Bowling_economy": 7.76,
+            "Bowling_wicket_per_match": 0.57,
+            "Total_Matches": 7
+        }
+    },
+    "Player F": {
+        "2025": {
+            "Total_Batting_Runs": 160,
+            "Total_Batting_Balls": 91,
+            "Total_Bowling_Runs": 169,
+            "Total_Bowling_Balls": 91,
+            "Batting_Avg": 26.67,
+            "Batting_strike_rate": 175.82,
+            "Bowling_economy": 11.14,
+            "Bowling_wicket_per_match": 0.08,
+            "Total_Matches": 12
+        }
+    },
+    "Player G": {
+        "2025": {
+            "Total_Batting_Runs": 263,
+            "Total_Batting_Balls": 171,
+            "Total_Bowling_Runs": 310,
+            "Total_Bowling_Balls": 219,
+            "Batting_Avg": 26.3,
+            "Batting_strike_rate": 153.8,
+            "Bowling_economy": 8.49,
+            "Bowling_wicket_per_match": 0.38,
+            "Total_Matches": 13
+        }
+    },
+    "Player H": {
+        "2025": {
+            "Total_Batting_Runs": 31,
+            "Total_Batting_Balls": 43,
+            "Total_Bowling_Runs": 14,
+            "Total_Bowling_Balls": 7,
+            "Batting_Avg": 6.2,
+            "Batting_strike_rate": 72.09,
+            "Bowling_economy": 12.0,
+            "Bowling_wicket_per_match": 0.0,
+
+            "Total_Matches": 6
+        }
+    },
+    "Player I": {
+        "2025": {
+            "Total_Batting_Runs": 246,
+            "Total_Batting_Balls": 160,
+            "Total_Bowling_Runs": 346,
+            "Total_Bowling_Balls": 275,
+            "Batting_Avg": 22.36,
+            "Batting_strike_rate": 153.75,
+            "Bowling_economy": 7.55,
+            "Bowling_wicket_per_match": 1.0,
+            "Total_Matches": 12
+        }
+    },
+    "Player J": {
+        "2025": {
+            "Total_Batting_Runs": 109,
+            "Total_Batting_Balls": 89,
+            "Total_Bowling_Runs": 370,
+            "Total_Bowling_Balls": 283,
+            "Batting_Avg": 18.17,
+            "Batting_strike_rate": 122.47,
+            "Bowling_economy": 7.84,
+            "Bowling_wicket_per_match": 1.13,
+            "Total_Matches": 15
+        }
+    },
+    "Player K": {
+        "2025": {
+            "Total_Batting_Runs": 97,
+            "Total_Batting_Balls": 58,
+            "Total_Bowling_Runs": 436,
+            "Total_Bowling_Balls": 312,
+            "Batting_Avg": 24.25,
+            "Batting_strike_rate": 167.24,
+            "Bowling_economy": 8.38,
+            "Bowling_wicket_per_match": 1.14,
+            "Total_Matches": 14
+        }
+    },
+    "Player L": {
+        "2025": {
+            "Total_Batting_Runs": 118,
+            "Total_Batting_Balls": 95,
+            "Total_Bowling_Runs": 0,
+            "Total_Bowling_Balls": 0,
+            "Batting_Avg": 39.33,
+            "Batting_strike_rate": 124.21,
+            "Bowling_economy": 0,
+            "Bowling_wicket_per_match": 0.0,
+            "Total_Matches": 5
+        }
+    },
+    "Player M": {
+        "2025": {
+            "Total_Batting_Runs": 133,
+            "Total_Batting_Balls": 85,
+            "Total_Bowling_Runs": 109,
+            "Total_Bowling_Balls": 67,
+            "Batting_Avg": 26.6,
+            "Batting_strike_rate": 156.47,
+            "Bowling_economy": 9.76,
+            "Bowling_wicket_per_match": 0.33,
+            "Total_Matches": 6
+        }
+    },
+    "Player N": {
+        "2025": {
+            "Total_Batting_Runs": 99,
+            "Total_Batting_Balls": 63,
+            "Total_Bowling_Runs": 0,
+            "Total_Bowling_Balls": 0,
+            "Batting_Avg": 14.14,
+            "Batting_strike_rate": 157.14,
+            "Bowling_economy": 0,
+            "Bowling_wicket_per_match": 0.0,
+            "Total_Matches": 11
+        }
+    },
+    "Player O": {
+        "2025": {
+            "Total_Batting_Runs": 5,
+            "Total_Batting_Balls": 16,
+            "Total_Bowling_Runs": 133,
+            "Total_Bowling_Balls": 99,
+            "Batting_Avg": 2.5,
+            "Batting_strike_rate": 31.25,
+            "Bowling_economy": 8.06,
+            "Bowling_wicket_per_match": 1.2,
+            "Total_Matches": 5
+        }
+    },
+    "Player P": {
+        "2025": {
+            "Total_Batting_Runs": 439,
+            "Total_Batting_Balls": 242,
+            "Total_Bowling_Runs": 111,
+            "Total_Bowling_Balls": 67,
+            "Batting_Avg": 33.77,
+            "Batting_strike_rate": 181.4,
+            "Bowling_economy": 9.94,
+            "Bowling_wicket_per_match": 0.0,
+            "Total_Matches": 14
+        }
+    },
+    "Player Q": {
+        "2025": {
+            "Total_Batting_Runs": 114,
+            "Total_Batting_Balls": 88,
+            "Total_Bowling_Runs": 131,
+            "Total_Bowling_Balls": 74,
+            "Batting_Avg": 22.8,
+            "Batting_strike_rate": 129.55,
+            "Bowling_economy": 10.62,
+            "Bowling_wicket_per_match": 0.2,
+            "Total_Matches": 5
+        }
+    },
+    "Player R": {
+        "2025": {
+            "Total_Batting_Runs": 397,
+            "Total_Batting_Balls": 247,
+            "Total_Bowling_Runs": 161,
+            "Total_Bowling_Balls": 128,
+            "Batting_Avg": 36.09,
+            "Batting_strike_rate": 160.73,
+            "Bowling_economy": 7.55,
+            "Bowling_wicket_per_match": 0.21,
+            "Total_Matches": 14
+        }
+    }
+}
