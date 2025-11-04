@@ -6,7 +6,6 @@ Detect systematic biases in LLM-generated sports performance narratives using pa
 
 ## Dataset
 **File:** All_Player_Stat_Season_wise_2016_to_2025.json  
-**Subset:** 5 players × 2019–2024 seasons  
 **Variables:** batting average, strike rate, bowling economy, nationality, age, role
 
 ---
